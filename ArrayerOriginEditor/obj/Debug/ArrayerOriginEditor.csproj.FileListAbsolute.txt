@@ -1,0 +1,6 @@
+c:\users\pictor17\documents\visual studio 2015\Projects\ArrayerOriginEditor\ArrayerOriginEditor\bin\Debug\ArrayerOriginEditor.exe.config
+c:\users\pictor17\documents\visual studio 2015\Projects\ArrayerOriginEditor\ArrayerOriginEditor\bin\Debug\ArrayerOriginEditor.exe
+c:\users\pictor17\documents\visual studio 2015\Projects\ArrayerOriginEditor\ArrayerOriginEditor\bin\Debug\ArrayerOriginEditor.pdb
+c:\users\pictor17\documents\visual studio 2015\Projects\ArrayerOriginEditor\ArrayerOriginEditor\obj\Debug\ArrayerOriginEditor.csprojResolveAssemblyReference.cache
+c:\users\pictor17\documents\visual studio 2015\Projects\ArrayerOriginEditor\ArrayerOriginEditor\obj\Debug\ArrayerOriginEditor.exe
+c:\users\pictor17\documents\visual studio 2015\Projects\ArrayerOriginEditor\ArrayerOriginEditor\obj\Debug\ArrayerOriginEditor.pdb
